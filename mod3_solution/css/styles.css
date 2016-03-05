@@ -34,3 +34,8 @@ li{
   height: 1000px;
   background-color: #61122f;
 }
+
+.container
+{
+  width: 80%;
+}
