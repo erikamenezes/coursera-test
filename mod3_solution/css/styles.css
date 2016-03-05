@@ -29,13 +29,15 @@ li{
 #nav-list a span {
   font-size: 1.8em;
 }
+#collapsable-nav
+{
+  padding: 0px;
+}
 
 #gridtext{
   height: 1000px;
   background-color: #61122f;
+  margin-right: 3em;
+  margin-left: 3em;
 }
 
-.container
-{
-  width: 80%;
-}
